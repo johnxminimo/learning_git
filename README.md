@@ -1,4 +1,7 @@
 # learning_git
 Practicing git commands and terminal + vsc
+
+## Practicing Push/Commmit
 Hello world!
-Even more text!
+Another push Even more text!
+
