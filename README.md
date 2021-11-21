@@ -1,5 +1,5 @@
-# learning_git
-Practicing git commands and terminal + vsc
+# learning_git + html & css
+Practicing git commands, terminal, vsc while also learning html+css (react + javascript soon)
 
 ## Practicing Push/Commmit
 Hello world!
